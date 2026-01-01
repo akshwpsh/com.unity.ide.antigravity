@@ -17,7 +17,7 @@ Unity editor integration for Antigravity. Adds support for generating csproj fil
 2. Go to **Window → Package Manager**
 3. Click the **"+"** button at the top left corner
 4. Select **"Add package from git URL"**
-5. Insert: `https://github.com/yourusername/com.unity.ide.antigravity.git`
+5. Insert: `https://github.com/akshwpsh/com.unity.ide.antigravity.git`
 6. Click **"Add"**
 7. Done!
 
