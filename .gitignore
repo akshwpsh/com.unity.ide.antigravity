@@ -1,0 +1,11 @@
+# Guide files (local only)
+ANTIGRAVITY_MIGRATION_GUIDE.md
+git-upload-guide.md
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
