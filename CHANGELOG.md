@@ -1,6 +1,20 @@
-# Code Editor Package for Cursor
+# Code Editor Package for Antigravity
 
-## [2.0.27] - 2025-11-02
+## [2.0.27] - 2026-01-01
+
+Integration:
+
+- Initial Antigravity support based on Cursor integration v2.0.27
+- Support for multiple or single Antigravity instance options
+- Workspace support
+- Auto-discovery of Antigravity installations
+- Cross-platform support (Windows, macOS, Linux)
+
+---
+
+## Previous versions (from Cursor integration)
+
+## [2.0.27] - 2025-11-02 (Cursor)
 
 Integration:
 
